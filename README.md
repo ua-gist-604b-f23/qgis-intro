@@ -34,5 +34,5 @@ Deliverable:
 Take a screen capture from step 16 showing the capitals with population > 1 million people and commit it to this repo as
 `large_world_capitals.png`
 
-Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
+### 3. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
 
