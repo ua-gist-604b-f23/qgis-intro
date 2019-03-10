@@ -2,6 +2,9 @@
 ## Worth: 30 points
 ## Due: 3 days
 
+## Prerequisites
+Install QGIS 3 on your workstation.
+
 ## Background
 
 In the world of open source software, documentation can be distributed among many sources and its quality may vary from project
