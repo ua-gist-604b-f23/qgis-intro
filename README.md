@@ -1,5 +1,5 @@
 # Assignment: Intro to QGIS
-## Worth: 10 points
+## Worth: 30 points
 ## Due: 3 days
 
 ## Background
@@ -32,7 +32,13 @@ Create a branch in this repo named `qgistutorial` and commit your Map of Japan a
 Deliverable: 
 
 Take a screen capture from step 16 showing the capitals with population > 1 million people and commit it to this repo as
-`large_world_capitals.png`
+`large_world_capitals_screencap.png`
 
-### 3. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
+### 3. Follow the tutorial at http://www.qgistutorials.com/en/docs/basic_vector_styling.html.
+
+Deliverable:
+
+Take a screen capture of the styles world map from Step 18 and commit it to this repo as `newsweek_screencap.png`
+
+### 4. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
 
