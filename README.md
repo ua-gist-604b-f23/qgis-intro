@@ -1,6 +1,6 @@
 # Assignment: Intro to QGIS
 ## Worth: 30 points
-## Due: 3 days
+## Due: March 24, 2019 11:59pm
 
 ## Prerequisites
 Install QGIS 3 on your workstation.
