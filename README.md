@@ -44,5 +44,6 @@ Deliverable:
 Take a screen capture of the styles world map from Step 18 and commit it to this repo as `newsweek_screencap.png`
 
 ### 4. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
-Be sure to tag the instructor (`@aaryno`) in your PR comment to let him know you are done and ready for review/grading.
+
+Be sure to send the instructor a message in slack with a link to your Pull request to initiate the grading process.
 
