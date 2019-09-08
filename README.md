@@ -43,7 +43,20 @@ Deliverable:
 
 Take a screen capture of the styles world map from Step 18 and commit it to this repo as `newsweek_screencap.png`
 
-### 4. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
+### 4. Follow the tutorial at http://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html
+
+Deliverable:
+
+From Step 6, right click the `signif` layer in the Layers menu and select `Export Features`. In the dialog that pops up,
+select `GeoJSON` and name it `earthquakes.geojson`. Commit the file to this repository under a new branch named `intermed`.
+
+### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/performing_table_joins.html
+
+Deliverable:
+
+Commit a screenshot of Step 20 as a file named `ca_tracts_pop_screenshot.png` to the `intermed` branch of this repo.
+
+### 6. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
 
 Be sure to send the instructor a message in slack with a link to your Pull request to initiate the grading process.
 
