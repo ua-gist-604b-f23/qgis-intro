@@ -56,7 +56,6 @@ Deliverable:
 
 Commit a screenshot of Step 20 as a file named `ca_tracts_pop_screenshot.png` to the `intermed` branch of this repo.
 
-### 6. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
+### 6. Turn in your work via GitHub Pull Request. 
 
-Be sure to send the instructor a message in slack with a link to your Pull request to initiate the grading process.
-
+Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `solution`.
