@@ -4,7 +4,7 @@
 
 ## Prerequisites
 Install QGIS 3 on your workstation.
-Watch this QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
+Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
 
 ## Background
 
