@@ -1,10 +1,10 @@
 # Assignment: Intro to QGIS
 ## Worth: 30 points
-## Due: March 24, 2019 11:59pm
+## Due: October 9, 2019 11:59pm
 
 ## Prerequisites
 Install QGIS 3 on your workstation.
-Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
+Optional: Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
 
 ## Background
 
