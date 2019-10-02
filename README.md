@@ -3,8 +3,8 @@
 ## Due: October 9, 2019 11:59pm
 
 ## Prerequisites
-Install QGIS 3 on your workstation.
-Optional: Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
+- Install QGIS 3 on your workstation.
+- Optional: Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
 
 ## Background
 
