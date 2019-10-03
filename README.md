@@ -49,14 +49,14 @@ Take a screen capture of the styles world map from Step 18 and commit it to this
 Deliverable:
 
 From Step 6, right click the `signif` layer in the Layers menu and select `Export Features`. In the dialog that pops up,
-select `GeoJSON` and name it `earthquakes.geojson`. Commit the file to this repository under a new branch named `intermed`.
+select `GeoJSON` and name it `earthquakes.geojson`. Commit the file to this repository under the `qgistutorial` branch.
 
 ### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/performing_table_joins.html
 
 Deliverable:
 
-Commit a screenshot of Step 20 as a file named `ca_tracts_pop_screenshot.png` to the `intermed` branch of this repo.
+Commit a screenshot of Step 20 as a file named `ca_tracts_pop_screenshot.png` to the `qgistutorial` branch of this repo.
 
 ### 6. Turn in your work via GitHub Pull Request. 
 
-Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `solution`.
+Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `qgistutorial`.
