@@ -6,6 +6,14 @@
 - Install QGIS 3 on your workstation.
 - Optional: Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
 
+## Deliverable
+`Pull request` to merge a new branch named `assignment` with `master`. Your branch should contain:
+1. `screenshot-japan-map.png`
+2. `screencap-populated-capitals.png`
+3. `screencap-powerplants.png`
+4. `screencap-csv-map.png`
+5. `screencap-county-population.png`
+
 ## Background
 
 In the world of open source software, documentation can be distributed among many sources and its quality may vary from project
@@ -25,38 +33,39 @@ and available from http://www.qgistutorials.com. The use of this site in this cl
 
 ## Assignment
 
-### 1. Follow the tutorial at http://www.qgistutorials.com/en/docs/making_a_map.html.
+### 0. Checkout this assignment and create a new branch named `assignment`.
+Perform all your work in this branch. You will submit a Pull request with the work to be merged with master when you are complete.
+
+### 1. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/making_a_map.html.
 
 Deliverable:
 
-Create a branch in this repo named `qgistutorial` and commit your Map of Japan as a .png file to this repo. 
+Save your final map (step 35) and name it `screencap-japan-map.png`. 
 
-### 2. Follow the tutorial at http://www.qgistutorials.com/en/docs/working_with_attributes.html.
+### 2. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/working_with_attributes.html.
 
 Deliverable: 
 
-Take a screen capture from step 16 showing the capitals with population > 1 million people and commit it to this repo as
-`large_world_capitals_screencap.png`
+Take a screenshot from your final step (step 16) and name it `screencap-populated-capitals.png`.
 
-### 3. Follow the tutorial at http://www.qgistutorials.com/en/docs/basic_vector_styling.html.
-
-Deliverable:
-
-Take a screen capture of the styles world map from Step 18 and commit it to this repo as `newsweek_screencap.png`
-
-### 4. Follow the tutorial at http://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html
+### 3. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/basic_vector_styling.html.
 
 Deliverable:
 
-From Step 6, right click the `signif` layer in the Layers menu and select `Export Features`. In the dialog that pops up,
-select `GeoJSON` and name it `earthquakes.geojson`. Commit the file to this repository under the `qgistutorial` branch.
+Take a screenshot of your final map (step 28) and name it `screencap-powerplants.png`.
 
-### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/performing_table_joins.html
+### 4. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/importing_spreadsheets_csv.html.
 
 Deliverable:
 
-Commit a screenshot of Step 20 as a file named `ca_tracts_pop_screenshot.png` to the `qgistutorial` branch of this repo.
+Take a screenshot of your QGIS workspace in the final step (step 4) and name it `screencap-csv-map.png`.
+
+### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/performing_table_joins.html.
+
+Deliverable:
+
+Take a screenshot of the `DB Manager` dialog bpx in Step 22 and name it `screencap-county-population.png`.
 
 ### 6. Turn in your work via GitHub Pull Request. 
 
-Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `qgistutorial`.
+Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
