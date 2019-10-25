@@ -66,6 +66,3 @@ Deliverable:
 
 Take a screenshot of the `DB Manager` dialog bpx in Step 22 and name it `screencap-county-population.png`.
 
-### 6. Turn in your work via GitHub Pull Request. 
-
-Finally, submit a *Pull request* to merge your assignment files with the `master` branch. 
