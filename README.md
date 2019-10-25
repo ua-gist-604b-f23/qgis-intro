@@ -34,7 +34,7 @@ and available from http://www.qgistutorials.com. The use of this site in this cl
 ## Assignment
 
 ### 0. Checkout this assignment and create a new branch named `assignment`.
-Perform all your work in this branch. You will submit a Pull request with the work to be merged with master when you are complete.
+Perform all your work in the `assignment` branch. When you have completed the assignment, submit a `Pull request` to merge `assignment` -> `master`.
 
 ### 1. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/making_a_map.html.
 
