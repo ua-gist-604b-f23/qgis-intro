@@ -3,7 +3,7 @@
 ## Due: 7 days
 
 ## Prerequisites
-- Install QGIS 3.8+ on your workstation.
+- Install QGIS 3.8+ on your workstation - [Download](https://qgis.org/en/site/forusers/download.html)
 - Optional: Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
 
 ## Deliverable
