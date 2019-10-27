@@ -8,7 +8,7 @@
 
 ## Deliverable
 `Pull request` to merge a new branch named `assignment` with `master`. Your branch should contain:
-1. `screenshot-japan-map.png`
+1. `screencap-japan-map.png`
 2. `screencap-populated-capitals.png`
 3. `screencap-powerplants.png`
 4. `screencap-csv-map.png`
