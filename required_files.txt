@@ -1,5 +1,0 @@
-screencap-japan-map.png
-screencap-populated-capitals.png
-screencap-powerplants.png
-screencap-csv-map.png
-screencap-county-population.png
