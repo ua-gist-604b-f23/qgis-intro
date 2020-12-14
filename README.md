@@ -1,9 +1,7 @@
 # Assignment: Intro to QGIS
-## Worth: 30 points
-## Due: 7 days
 
 ## Prerequisites
-- Install QGIS 3.8+ on your workstation - [Download](https://qgis.org/en/site/forusers/download.html)
+- Install QGIS 3.12+ on your workstation - [Download](https://qgis.org/en/site/forusers/download.html)
 - Optional: Watch this 32-minute QGIS Tutorial for Absolute Beginners: https://www.youtube.com/watch?v=kCnNWyl9qSE
 
 ## Deliverable
@@ -66,3 +64,10 @@ Deliverable:
 
 Take a screenshot of the `DB Manager` dialog bpx in Step 22 and name it `screencap-county-population.png`.
 
+## Deliverable
+New Pull Request to merge branch `assignment` to `master` with 5 files:
+- `screencap-japan-map.png`
+- `screencap-populated-capitals.png`
+- `screencap-powerplants.png`
+- `screencap-csv-map.png`
+- `screencap-county-population.png`
