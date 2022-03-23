@@ -31,7 +31,7 @@ jobs:
       - name: Required files exist
         if: steps.check_2_files.outputs.files_exists != 'true'
         run: |
-          echo Required file, 'screencap-populated-capitals.png', is missing
+          echo Required file, 'screencap-populated-capitols.png', is missing
           exit 1
 
       - name: Check 3 files
