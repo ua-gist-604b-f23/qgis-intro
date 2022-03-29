@@ -10,64 +10,64 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Check 1 files
+      - name: Check screencap_japan_map.png
         id: check_1_files
         uses: andstor/file-existence-action@v1
         with:
-          files: "screencap-japan-map.png"
+          files: "screencap_japan_map.png"
 
       - name: Required files exist
         if: steps.check_1_files.outputs.files_exists != 'true'
         run: |
-          echo Required file, 'screencap-japan-map.png', is missing
+          echo Required file, 'screencap_japan_map.png', is missing
           exit 1
 
-      - name: Check 2 files
+      - name: Check screencap_populated_capitals.png
         id: check_2_files
         uses: andstor/file-existence-action@v1
         with:
-          files: "screencap-populated-capitals.png"
+          files: "screencap_populated_capitals.png"
 
       - name: Required files exist
         if: steps.check_2_files.outputs.files_exists != 'true'
         run: |
-          echo Required file, 'screencap-populated-capitols.png', is missing
+          echo Required file, 'screencap_populated_capitols.png', is missing
           exit 1
 
-      - name: Check 3 files
+      - name: Check screencap_powerplants.png
         id: check_3_files
         uses: andstor/file-existence-action@v1
         with:
-          files: "screencap-powerplants.png"
+          files: "screencap_powerplants.png"
 
       - name: Required files exist
         if: steps.check_3_files.outputs.files_exists != 'true'
         run: |
-          echo Required file, 'screencap-powerplants.png', is missing
+          echo Required file, 'screencap_powerplants.png', is missing
           exit 1
 
-      - name: Check 4 files
+      - name: Check screencap_csv_map.png
         id: check_4_files
         uses: andstor/file-existence-action@v1
         with:
-          files: "screencap-csv-map.png"
+          files: "screencap_csv_map.png"
 
       - name: Required files exist
         if: steps.check_4_files.outputs.files_exists != 'true'
         run: |
-          echo Required file, 'screencap-csv-map.png', is missing
+          echo Required file, 'screencap_csv_map.png', is missing
           exit 1
 
-      - name: Check 5 files
+      - name: Check screencap_county_population.png
         id: check_5_files
         uses: andstor/file-existence-action@v1
         with:
-          files: "screencap-county-population.png"
+          files: "screencap_county_population.png"
 
       - name: Required files exist
         if: steps.check_5_files.outputs.files_exists != 'true'
         run: |
-          echo Required file, 'screencap-county-population.png', is missing
+          echo Required file, 'screencap_county_population.png', is missing
           exit 1
           
           
