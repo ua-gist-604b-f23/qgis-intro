@@ -6,11 +6,11 @@
 
 ## Deliverable
 `Pull request` to merge a new branch named `assignment` with `master`. Your branch should contain:
-1. `screencap-japan-map.png`
-2. `screencap-populated-capitols.png`
-3. `screencap-powerplants.png`
-4. `screencap-csv-map.png`
-5. `screencap-county-population.png`
+1. `screencap_japan_map.png`
+2. `screencap_populated_capitols.png`
+3. `screencap_powerplants.png`
+4. `screencap_csv_map.png`
+5. `screencap_county_population.png`
 
 ## Background
 
@@ -38,36 +38,36 @@ Perform all your work in the `assignment` branch. When you have completed the as
 
 Deliverable:
 
-Save your final map (step 35) and name it `screencap-japan-map.png`. 
+Save your final map (step 35) and name it `screencap_japan_map.png`. 
 
 ### 2. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/working_with_attributes.html.
 
 Deliverable: 
 
-Take a screenshot from your final step (step 16) and name it `screencap-populated-capitols.png`.
+Take a screenshot from your final step (step 16) and name it `screencap_populated_capitols.png`.
 
 ### 3. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/basic_vector_styling.html.
 
 Deliverable:
 
-Take a screenshot of your final map (step 28) and name it `screencap-powerplants.png`.
+Take a screenshot of your final map (step 28) and name it `screencap_powerplants.png`.
 
 ### 4. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/importing_spreadsheets_csv.html.
 
 Deliverable:
 
-Take a screenshot of your QGIS workspace in the final step (step 4) and name it `screencap-csv-map.png`.
+Take a screenshot of your QGIS workspace in the final step (step 4) and name it `screencap_csv_map.png`.
 
 ### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/performing_table_joins.html.
 
 Deliverable:
 
-Take a screenshot of the `DB Manager` dialog bpx in Step 22 and name it `screencap-county-population.png`.
+Take a screenshot of the `DB Manager` dialog bpx in Step 22 and name it `screencap_county_population.png`.
 
 ## Deliverable
 New Pull Request to merge branch `assignment` to `master` with 5 files:
-- `screencap-japan-map.png`
-- `screencap-populated-capitols.png`
-- `screencap-powerplants.png`
-- `screencap-csv-map.png`
-- `screencap-county-population.png`
+- `screencap_japan_map.png`
+- `screencap_populated_capitols.png`
+- `screencap_powerplants.png`
+- `screencap_csv_map.png`
+- `screencap_county_population.png`
