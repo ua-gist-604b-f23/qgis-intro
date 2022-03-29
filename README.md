@@ -62,7 +62,7 @@ Take a screenshot of your QGIS workspace in the final step (step 4) and name it 
 
 Deliverable:
 
-Take a screenshot of the `DB Manager` dialog bpx in Step 22 and name it `screencap_county_population.png`.
+Take a screenshot of your QGIS workspace in the final step and name it `screencap_county_population.png`.
 
 ## Deliverable
 New Pull Request to merge branch `assignment` to `master` with 5 files:
