@@ -22,11 +22,11 @@ jobs:
           echo Required file, 'screencap_japan_map.png', is missing
           exit 1
 
-      - name: Check screencap_populated_capitals.png
+      - name: Check screencap_populated_capitols.png
         id: check_2_files
         uses: andstor/file-existence-action@v1
         with:
-          files: "screencap_populated_capitals.png"
+          files: "screencap_populated_capitols.png"
 
       - name: Required files exist
         if: steps.check_2_files.outputs.files_exists != 'true'
